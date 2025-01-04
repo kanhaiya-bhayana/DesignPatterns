@@ -1,0 +1,15 @@
+D:\Kanhaiya\Leaning\DesignPatterns\FactoryPattern\bin\Debug\net8.0\FactoryPattern.exe
+D:\Kanhaiya\Leaning\DesignPatterns\FactoryPattern\bin\Debug\net8.0\FactoryPattern.deps.json
+D:\Kanhaiya\Leaning\DesignPatterns\FactoryPattern\bin\Debug\net8.0\FactoryPattern.runtimeconfig.json
+D:\Kanhaiya\Leaning\DesignPatterns\FactoryPattern\bin\Debug\net8.0\FactoryPattern.dll
+D:\Kanhaiya\Leaning\DesignPatterns\FactoryPattern\bin\Debug\net8.0\FactoryPattern.pdb
+D:\Kanhaiya\Leaning\DesignPatterns\FactoryPattern\obj\Debug\net8.0\FactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kanhaiya\Leaning\DesignPatterns\FactoryPattern\obj\Debug\net8.0\FactoryPattern.AssemblyInfoInputs.cache
+D:\Kanhaiya\Leaning\DesignPatterns\FactoryPattern\obj\Debug\net8.0\FactoryPattern.AssemblyInfo.cs
+D:\Kanhaiya\Leaning\DesignPatterns\FactoryPattern\obj\Debug\net8.0\FactoryPattern.csproj.CoreCompileInputs.cache
+D:\Kanhaiya\Leaning\DesignPatterns\FactoryPattern\obj\Debug\net8.0\FactoryPattern.sourcelink.json
+D:\Kanhaiya\Leaning\DesignPatterns\FactoryPattern\obj\Debug\net8.0\FactoryPattern.dll
+D:\Kanhaiya\Leaning\DesignPatterns\FactoryPattern\obj\Debug\net8.0\refint\FactoryPattern.dll
+D:\Kanhaiya\Leaning\DesignPatterns\FactoryPattern\obj\Debug\net8.0\FactoryPattern.pdb
+D:\Kanhaiya\Leaning\DesignPatterns\FactoryPattern\obj\Debug\net8.0\FactoryPattern.genruntimeconfig.cache
+D:\Kanhaiya\Leaning\DesignPatterns\FactoryPattern\obj\Debug\net8.0\ref\FactoryPattern.dll
